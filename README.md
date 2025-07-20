@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandeepPallapothu
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python full stack
+- 🌱 I’m currently learning Java full stack
 - 💞️ I’m looking to collaborate on Front-End and Back-End Projects
 - 📫 you can reach me through the Gmail: sandeeppallapothu85@gmail.com
 
